@@ -1,4 +1,3 @@
-# alphavantage api TMVF4QR3NINC0TYF
 # Demo since AlphaAdvantage only offers 5 calls every 5 min, so I can't track more than 5 stocks
 import requests
 import pandas as pd
